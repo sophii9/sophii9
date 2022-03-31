@@ -1,0 +1,3 @@
+- Holi, soy Sophia
+- Estoy interesada en crear mi primer bot en discord
+- Actualmente aprendo inglés y a programar
